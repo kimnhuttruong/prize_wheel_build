@@ -61624,7 +61624,7 @@ n=m.y
 n===$&&A.a()
 k=A.jZ(q,new A.a1B(m),A.pG(l,l,l,new A.DV(p,o,n,l),new A.K(k,k)))
 q=t.F
-return A.a7n(A.b([A.tX(B.a1,A.b([s,new A.fR(B.jN,r,l),k,new A.Cz(2,A.Mu(A.tN(A.tX(B.vI,A.b([new A.fR(B.zz,new A.qz(A.aix(l,l,new A.pc("assets/icons/pin.png",l,l)),l),l),A.a47(A.M0(40),A.kb(l,l,B.i,l,l,30,l,l,30),B.dj)],q),B.aF,B.bX,l),l,50),l,l),l)],q),B.aF,B.bX,l),A.tN(l,40,l),new A.zi(m.gM8(),l,l,l,l,B.I,l,!1,l,A.a5h("Spin",l,l,l,A.nI(l,l,m.a.f,l,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),l)],q),B.Du,B.he)}}
+return A.a7n(A.b([A.tX(B.a1,A.b([s,new A.fR(B.jN,r,l),k,new A.Cz(2,A.Mu(A.tN(A.tX(B.vI,A.b([new A.fR(B.zz,new A.qz(A.aix(l,l,new A.pc("/icons/pin.png",l,l)),l),l),A.a47(A.M0(40),A.kb(l,l,B.i,l,l,30,l,l,30),B.dj)],q),B.aF,B.bX,l),l,50),l,l),l)],q),B.aF,B.bX,l),A.tN(l,40,l),new A.zi(m.gM8(),l,l,l,l,B.I,l,!1,l,A.a5h("Spin",l,l,l,A.nI(l,l,m.a.f,l,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),l)],q),B.Du,B.he)}}
 A.a1C.prototype={
 $1(a){return a.a},
 $S:382}
